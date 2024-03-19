@@ -1,0 +1,11 @@
+				@font-face {
+					font-family: 'duledfnt';
+					src: url('/wp-content/uploads/useanyfont/5618DULEDFNT.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/5618DULEDFNT.woff') format('woff');
+				}
+
+				.duledfnt{font-family: 'duledfnt' !important;}
+
+				.et_gf_duledfnt{background:none !important;font-family:duledfnt;text-indent:0 !important;font-size:25px;}
+
+		
